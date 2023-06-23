@@ -163,7 +163,7 @@
         <img class="gg" src="~assets/unique_tech.png" /><nuxt-link
           to="/techs/Greek_Fire"
           >希臘之火</nuxt-link
-        >：火戰船射程+1
+        >：火戰船射程+1，火砲塔擴散傷害+5
       </p>
       <p>
         <img class="gg" src="~assets/unique_tech_imperial.png" /><nuxt-link
@@ -209,8 +209,7 @@
           >便宜25%
         </li>
         <li>
-          <nuxt-link to="/units/Fire_Ship">火戰船系列</nuxt-link
-          ><nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>提高20%
+          <nuxt-link to="/units/Fire_Ship">火戰船系列</nuxt-link>和德羅蒙戰艦<nuxt-link to="/elements/Rate_of_Fire">攻擊速度</nuxt-link>提高25%
         </li>
         <li>
           晉升至帝王時代花費減免33%(一般是需要 1000<nuxt-link
@@ -220,11 +219,11 @@
           800<nuxt-link to="/resource/Gold">黃金</nuxt-link>，變成 667食物
           536黃金)
         </li>
-        <li>封建時代城鎮瞭望免費</li>
+        <li>封建時代城鎮瞭望免費、城堡時代城鎮巡邏免費</li>
         <li>
           <strong
             ><nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link></strong
-          >:僧侶治療速度提高50％
+          >:僧侶治療速度提高100％
         </li>
       </ul>
     </div>
@@ -249,6 +248,9 @@
       <ul>
         <li>
           建築風格由中東變更為地中海風格。
+        </li>
+        <li>
+          羅馬歸來中移除火炮戰船加入德羅蒙戰艦
         </li>
       </ul>
     </div>
