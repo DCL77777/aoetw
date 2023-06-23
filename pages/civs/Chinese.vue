@@ -106,7 +106,7 @@
               <strong
                 ><nuxt-link to="/elements/Team_Bonus">團隊加分</nuxt-link
                 >:</strong
-              ><nuxt-link to="/building/Farm">農田</nuxt-link>可生產食物+45
+              ><nuxt-link to="/building/Farm">農田</nuxt-link>可生產食物+10%
             </p>
           </ul>
         </div>
