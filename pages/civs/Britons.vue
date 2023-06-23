@@ -127,7 +127,7 @@
                   >團隊加分</nuxt-link
                 ></strong
               >:<nuxt-link to="/building/Archery_Range">射箭場</nuxt-link
-              >工作效率+20%
+              >工作效率+10%
             </li>
           </ul>
         </div>
